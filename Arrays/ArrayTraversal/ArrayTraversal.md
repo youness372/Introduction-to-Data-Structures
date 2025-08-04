@@ -6,6 +6,24 @@
   
     - Traversal Array is just Accessing the elements in an Array
 
+-  We all knows The Array have a Indexs and in any index in this Array have a Value an Location in the memory.
+
+<img width="772" height="500" alt="image" src="https://github.com/user-attachments/assets/6b5ba7fe-3131-4865-9b49-6caa5837d0c8" />   
+
+### *Exemple ⛓️‍💥*   
+
+```cpp
+      int [] nums = new int[]  {15,16,20,84} ;   
+
+      nums[0]  ->  15    
+      nums[1]  ->  16   
+      nums[2]  ->  20   
+      nums[20] ->  84   
+  ```    
+
+
+### *Exempl in Traversal Array* 
+
 ```java
 public class ArrayTraversal {
   public static void main(String[] args) {
