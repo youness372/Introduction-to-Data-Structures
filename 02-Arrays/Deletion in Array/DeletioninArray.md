@@ -1,4 +1,0 @@
-# *Deletion in  Array*       
----   
-
-
