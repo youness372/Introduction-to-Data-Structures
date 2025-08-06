@@ -37,21 +37,51 @@
     - `Efficiency`
         How much Time and Memory it will take to Execute ?
 
-# *Exmple( An Algorithm For Adding Two Numbers)* 
+# *Exmple( An Algorithm For Adding Two Numbers)*    
 
+
+### *`c++`*
   ```cpp
           #include<iostream>   
           using namespace std ;    
           int main(void)  {  
           int  Number1 , Number2 ;   
-          cout << "Enter The Value of Number 1 :" << enndl ;   
+          cout << "Enter The First Number  :" << enndl ;   
           cin >>  Number1 ;   
-          cout << "Enter The Value of Number 2 :" << enndl ;   
+          cout << "Enter The Secend Number :" << enndl ;   
           cin >> Number2 ;   
           cout << "The Result is " << Number1  + Number2 << endl ;   
           return  0 ;  
 
           }  
+```
+
+### *`java`*
+  ```java
+
+       import  java.util.Scanner ;
+        public class TwoSum {
+          public static void main(String[] args) {
+              Scanner raeder  =  new  Scanner(System.in) ;
+              int Number1 , Number2 ;
+
+              System.out.println("Enter The First Number :") ;
+              Number1  =  reader.nextInt() ;
+              System.out.println("Enter The Secend Number :") ;
+              Number2 = reader.nextInt() ;
+
+              System.out.println("The result is :" + Number1 + Number2) ;
+   }
+}
+```
+
+### *`Python`*
+ ```py
+
+Number1 = int (input("Enter The First Number: "))
+Number2 = int (input("Enter The secend Number"))
+
+print ( "The Sume of Number1 and Number2 is :" , Number1 + Number2)   
 ```
 
 # *Algorithm Aanalysis*  
