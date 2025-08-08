@@ -114,7 +114,8 @@ else :
 
 
 
-### *The Solution Using Two pointer*   
+## *The Solution Using Two pointer*     
+--- 
 
 <img width="1490" height="420" alt="image" src="https://github.com/user-attachments/assets/ae133518-1a4e-429b-a699-cd6e61adbd63" />
 
