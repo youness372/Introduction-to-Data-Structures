@@ -116,14 +116,12 @@ else :
 
 ## *The Solution Using Two pointer*     
 --- 
+<img width="930" height="620" alt="Screenshot 2025-08-08 230244" src="https://github.com/user-attachments/assets/3c119234-907b-4509-a312-908f857ffa8f" />
 
-<img width="1490" height="420" alt="image" src="https://github.com/user-attachments/assets/ae133518-1a4e-429b-a699-cd6e61adbd63" />
-
-<img width="1405" height="691" alt="image" src="https://github.com/user-attachments/assets/4c37cba2-de54-4804-8cd1-8ebbb4c69ca9" />
-
-<img width="1336" height="896" alt="image" src="https://github.com/user-attachments/assets/a90f6830-9701-4830-8888-eb8d5c27203d" />
-
-<img width="1419" height="571" alt="image" src="https://github.com/user-attachments/assets/d497e46d-e0af-4f3c-b718-86620e321ecd" />
+<img width="930" height="620" alt="Screenshot 2025-08-08 230307" src="https://github.com/user-attachments/assets/84c9ddb5-11d2-4458-8227-518a426b7d5d" />
+<img width="930" height="620" alt="Screenshot 2025-08-08 230325" src="https://github.com/user-attachments/assets/54daba3b-5db4-45d7-9b36-3b53728e4a9c" />
+<img width="930" height="320" alt="Screenshot 2025-08-08 230336" src="https://github.com/user-attachments/assets/9cfa17bb-2766-4764-9918-403a4fac7f11" />
+<img width="930" height="620" alt="image" src="https://github.com/user-attachments/assets/d404dbad-bce7-4867-86e7-7c3f757f1212" />
 
 ### *Java*   
 ```java
