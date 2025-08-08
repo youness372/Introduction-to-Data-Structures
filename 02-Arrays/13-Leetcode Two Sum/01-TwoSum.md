@@ -120,7 +120,7 @@ else :
 
 <img width="930" height="620" alt="Screenshot 2025-08-08 230307" src="https://github.com/user-attachments/assets/84c9ddb5-11d2-4458-8227-518a426b7d5d" />
 <img width="930" height="620" alt="Screenshot 2025-08-08 230325" src="https://github.com/user-attachments/assets/54daba3b-5db4-45d7-9b36-3b53728e4a9c" />
-<img width="930" height="320" alt="Screenshot 2025-08-08 230336" src="https://github.com/user-attachments/assets/9cfa17bb-2766-4764-9918-403a4fac7f11" />
+<img width="930" height="620" alt="Screenshot 2025-08-08 230336" src="https://github.com/user-attachments/assets/9cfa17bb-2766-4764-9918-403a4fac7f11" />
 <img width="930" height="620" alt="image" src="https://github.com/user-attachments/assets/d404dbad-bce7-4867-86e7-7c3f757f1212" />
 
 ### *Java*   
